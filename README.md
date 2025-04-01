@@ -45,6 +45,7 @@ This project focuses on **brain tumor segmentation** using a **UNet-based deep l
 
 ## **Future Enhancements** 
 - Train the model with **larger & diverse MRI datasets**.  
-- Extend the project to classify tumor **types (e.g., glioma, meningioma, pituitary tumor)**.  
+- Extend the project to classify tumor **types (e.g., glioma, meningioma, pituitary tumor)**.
+- Combine multiple(two or more) unet improvements in one model.
 
 This project provides an **end-to-end solution** for brain tumor segmentation, with practical applications in **medical image analysis** and **computer-aided diagnosis (CAD)**.
